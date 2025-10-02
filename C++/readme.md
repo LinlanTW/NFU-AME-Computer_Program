@@ -1,8 +1,9 @@
-#VSCode
+**VSCode**
 *******
 VSCode為自己使用的軟體
 [VSCode](https://code.visualstudio.com/)
-#DevC++
+********
+**DevC++**
 ********
 DevC++為學校強制使用的軟體
 [DevC++ 原版](https://www.bloodshed.net/)
