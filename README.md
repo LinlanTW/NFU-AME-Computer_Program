@@ -91,7 +91,7 @@ if (aa+bb>cc && bb+cc>aa && cc+aa>bb)//1 第一巢判斷三種是否成立如果
         }
     else//2判斷不成立
         {
-            printf("所輸入的3個邊長:%d,,%d,,%無法構成三角形\n",aa,bb,cc);
+            printf("所輸入的3個邊長:%d,,%d,,%d無法構成三角形\n",aa,bb,cc);
             return 0;
         }
 ```
