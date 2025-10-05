@@ -1,3 +1,5 @@
+# 備註
+兩個基本上為一樣的東西，主要為編碼不同。
 # VSCode
 VSCode為自己使用的軟體
 [VSCode](https://code.visualstudio.com/)
