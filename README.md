@@ -111,7 +111,7 @@ if (aa+bb>cc && bb+cc>aa && cc+aa>bb)//1 第一巢判斷三種是否成立如果
                 }
                 else if(aa*aa+bb*bb<cc*cc)//1-2 第一巢裡面第二條路
                 {
-                    printf(鈍角三角形\n);
+                    printf("鈍角三角形"\n);
                 }
                 else if(aa*aa+bb*bb>cc*cc)//1-3 第一巢裡面第三條路
                 {
